@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi there 👋,I'm Vishal Gowda V N 
+Passionate to work in software sectors
 # 💫 About Me:
-i am a student form electronics and communication engineering
+i am a student from Electronics and Communication Engineering
 
 
 ## 🌐 Socials:
