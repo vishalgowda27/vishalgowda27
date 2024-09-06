@@ -1,8 +1,7 @@
 ## I'm Vishal Gowda V N 😄
 Passionate to work in software sectors
 # 💫 About Me:
-
-![image](https://github.com/user-attachments/assets/35313e62-9791-4062-af92-a071bfbc5773)I am a student from Electronics and Communication Engineering
+I am a student from Electronics and Communication Engineering
 
 
 ## 🌐 Socials:
