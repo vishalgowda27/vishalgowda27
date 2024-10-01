@@ -1,9 +1,10 @@
 ## I'm Vishal Gowda V N 😄
 Passionate to work in software sectors
 # 💫 About Me:
-I am a student from Electronics and Communication Engineering
+I am a student from Electronics and Communication Engineering👨‍🎓
 
-I'm currently working on 12 head ECG hardware 
+I'm currently working on 12 head ECG hardware ![LifelineHeartbeatGIF (2)](https://github.com/user-attachments/assets/8109ee5b-9ca5-4627-954e-68051ccb37b0)
+
 <br>I'm currently learning Matlab
 
 # 📊 GitHub Stats:
