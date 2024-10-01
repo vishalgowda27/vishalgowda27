@@ -3,8 +3,8 @@ Passionate to work in software sectors
 # 💫 About Me:
 I am a student from Electronics and Communication Engineering👨‍🎓
 
-I'm currently working on 12 head ECG hardware 
-<br>I'm currently learning Matlab
+🔭I'm currently working on 12 head ECG hardware 
+<br>😇I'm currently learning Matlab
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vishal gowda 27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
