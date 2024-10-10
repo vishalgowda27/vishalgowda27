@@ -2,7 +2,7 @@
 Passionate to work!!!
 # 💫 About Me:
 Student from Electronics and Communication Engineering👨‍🎓
-<br>🔭I'm currently working on 12 head ECG hardware 
+<br>🔭I'm currently working on 12 Lead ECG hardware 
 <br>👾I'm currently learning Matlab
 <br>👯I'm looking to collaborate on cool projects
 
