@@ -3,8 +3,8 @@ Passionate to work!!!
 # 💫 About Me:
 Student from Electronics and Communication Engineering👨‍🎓
 <br>🔭I'm currently working on 12 Lead ECG hardware 
-<br>👾I'm currently mastering Python
-<br>👯I'm looking to collaborate on cool projects
+<br>👾
+<br>👯
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vishal gowda 27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
