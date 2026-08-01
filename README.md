@@ -2,7 +2,7 @@
 Passionate to work!!!
 # 💫 About Me:
 Student from Electronics and Communication Engineering👨‍🎓
-<br>🔭I'm currently working on 12 Lead ECG  <br>👾Tech Enthusiast
+<br>🔭I'm currently working on 5-stage pipelined RISC-V processor  <br>👾Tech Enthusiast
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vishal gowda 27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
